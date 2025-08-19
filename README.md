@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Luiz 👋</h1>
 
 <p align="center">
-Estudante de <b>Ciência da Computação</b> com foco em <b>Dados</b>.  
+Estudante de <b>Ciência da Computação</b> com foco em <b>Dados</b>.<br/>
 Atualmente aprendendo <b>Python</b>, <b>SQL (PostgreSQL)</b> e <b>Power BI</b> para análise e visualização de informações.
 </p>
 
@@ -13,7 +13,7 @@ Atualmente aprendendo <b>Python</b>, <b>SQL (PostgreSQL)</b> e <b>Power BI</b> p
 ---
 
 ### 🚀 O que estou fazendo agora
-- Aprimorando meus conhecimentos em **Python** para análise de dados
+- Aprofundando **Python** para análise de dados (Pandas)
 - Estudando **PostgreSQL (SQL)** para modelagem e consultas
 - Criando dashboards no **Power BI** com dados públicos
 
@@ -23,10 +23,15 @@ Atualmente aprendendo <b>Python</b>, <b>SQL (PostgreSQL)</b> e <b>Power BI</b> p
 - **Banco de dados:** PostgreSQL  
 - **Outros:** Git e GitHub
 
-### 📌 Próximos passos
-- Publicar um repositório de **exercícios SQL (PostgreSQL)**
-- Criar uma **análise em Python (Pandas)** com CSV público
-- Subir um **dashboard Power BI (.pbix)** com 2–3 visuais e um README explicando
+### 📌 Repositórios em destaque
+- [`postgresql-exercicios`](https://github.com/SEUUSUARIO/postgresql-exercicios) → scripts SQL de prática (joins, group by, funções de janela, importação de CSV)  
+- [`python-analise-exemplo`](https://github.com/SEUUSUARIO/python-analise-exemplo) → exemplo simples de análise com Pandas  
+- [`powerbi-dashboard-exemplo`](https://github.com/SEUUSUARIO/powerbi-dashboard-exemplo) → dashboard de vendas com dados fictícios  
+
+### 📈 Próximos passos
+- Expandir os exercícios em SQL (PostgreSQL)  
+- Publicar mais análises em Python (Pandas)  
+- Subir dashboards no Power BI com README explicativo
 
 ---
 
