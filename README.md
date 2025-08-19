@@ -24,7 +24,7 @@ Atualmente aprendendo <b>Python</b>, <b>SQL (PostgreSQL)</b> e <b>Power BI</b> p
 - **Outros:** Git e GitHub
 
 ### 📌 Repositórios em destaque
-- [`postgresql-exercicios`](https://github.com/SEUUSUARIO/postgresql-exercicios) → scripts SQL de prática (joins, group by, funções de janela, importação de CSV)  
+- [`postgresql-exercicios`](https://github.com/LuizFProgramming/postgresql-exercicios) → scripts SQL de prática (joins, group by, funções de janela, importação de CSV)  
 - [`python-analise-exemplo`](-) → exemplo simples de análise com Pandas  
 - [`powerbi-dashboard-exemplo`](-) → dashboard de vendas com dados fictícios  
 
